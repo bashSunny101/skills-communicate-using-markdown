@@ -5,6 +5,9 @@
 ```
 sudo rm -rf comfort
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio(Not Completed)
+- [x] Introduce myself to the world
 
 
 
@@ -25,4 +28,6 @@ sudo rm -rf comfort
 Edit index.md
 Add image
 Add code
+Add tasks
+
 
